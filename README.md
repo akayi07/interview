@@ -21,7 +21,8 @@
   https://github.com/riddles-are-us/trustless-browser-sandbox/tree/singleton  
 
 - **线上官网**  
-  https://disco.zkplay.app/ （https://x.com/0xMeMeDisco）
+  https://disco.zkplay.app/
+  https://x.com/0xMeMeDisco
 
 ---
 
