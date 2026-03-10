@@ -9,9 +9,6 @@
   https://github.com/riddles-are-us/frontend-zkwasm-exchange  
   https://github.com/riddles-are-us/polymarket-ui-sdk/tree/akayi-update  
 
-- **在线 Demo**  
-  https://frontend-zkwasm-exchange.vercel.app/  
-
 ---
 
 ### puppy-party
@@ -21,7 +18,6 @@
   https://github.com/riddles-are-us/trustless-browser-sandbox/tree/singleton  
 
 - **线上官网**  
-  https://disco.zkplay.app/
   https://x.com/0xMeMeDisco
 
 ---
@@ -30,7 +26,6 @@
 
 - **项目状态**：闭源  
 - **线上地址**  
-  https://www.0xpioneer.com/  
   https://x.com/0xpioneer
 
 ---
@@ -41,9 +36,6 @@
   https://github.com/riddles-are-us/zkwasm-automata  
   https://github.com/riddles-are-us/frontend-automata  
   https://github.com/zkcrossteam/zkwasm-automata  
-
-- **线上官网**  
-  https://automata.zkplay.app/  
 
 ---
 
