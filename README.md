@@ -20,3 +20,13 @@ https://github.com/DelphinusLab/zkc-substrate-node
 - **开源地址**  
   https://github.com/riddles-are-us/puppy-party   
   https://github.com/riddles-are-us/trustless-browser-sandbox
+
+### 部分我写的英文技术文档
+https://hackmd.io/@8ZPZQNk3SVOAO7v8liHCuw/BJ_ewAQ9s
+https://hackmd.io/@8ZPZQNk3SVOAO7v8liHCuw/B1GFTtu2i
+https://hackmd.io/@8ZPZQNk3SVOAO7v8liHCuw/SJ-Mpg_do
+https://hackmd.io/@8ZPZQNk3SVOAO7v8liHCuw/ryJyrM4Yj
+https://hackmd.io/@8ZPZQNk3SVOAO7v8liHCuw/BJqYo3Xwh
+https://hackmd.io/@8ZPZQNk3SVOAO7v8liHCuw/S1lbob71n
+https://hackmd.io/@8ZPZQNk3SVOAO7v8liHCuw/BJ8tK-Das
+https://hackmd.io/@8ZPZQNk3SVOAO7v8liHCuw/SkjAJ2zX2
