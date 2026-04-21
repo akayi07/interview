@@ -26,6 +26,10 @@ https://github.com/DelphinusLab/zkc-substrate-node
   https://disco.zkplay.app/
   https://x.com/0xMeMeDisco
 
+### Rust Crypto Trading Bot (CEX / DeFi)
+- **开源地址**  
+  https://github.com/akayi07/rust-crypto-trading-bot  
+
 ### zkWasm Exchange
 - **开源地址**  
   https://github.com/riddles-are-us/zkwasm-exchange  
